@@ -1,0 +1,22 @@
+<!-- BEGIN: main -->
+
+<div id="video"><iframe width="200" height="150" frameborder="0" allowfullscreen="" autoplay="0" src="{video_src}"></iframe></div>
+<div class="video_name"><a href="{video_url}" target="_blank">{video_name}</a></div>
+<div class="videotext">{video_text}</div>
+
+<!-- BEGIN: facebook_link -->
+<a target="_blank" class="facebook-thread-link readmore comment-reply-link" href="{facebook_thread_url}">View Facebook thread</a>
+<!-- END: facebook_link -->
+
+<!-- BEGIN: twitter_link -->
+<a target="_blank" class="twitter-thread-link readmore comment-reply-link" href="{twitter_thread_url}">View On Twitter</a>
+<!-- END: twitter_link -->
+
+<div class="asset-{asset_type}">
+    <div class="{asset_type}image"></div>
+    <div class="readypulse-pub-date"><div pubdate="{pubdate}" datetime="{pubdate}">{pubdate}</div></div>
+    <div class="{asset_type}likes">{sub_like_text}</div>
+    <div class="Clear"></div>
+</div>
+{video_children}
+<!-- END: main -->

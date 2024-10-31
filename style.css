@@ -1,0 +1,277 @@
+ol.jsonComment{margin-left: 0px;}
+#readypulse-widget .readypulseChild1{margin-left: 0px !important;}
+#subcontent p, .comment-content1 p{margin: 0px;}
+#readypulse-widget .jsonComment,.children,.children2{
+  list-style: none;
+
+}
+#readypulse-widget #li-comment-1{
+  width:500px;
+  height:auto;
+}
+#readypulse-widget #comment-authorvcard{
+  width:500px;
+}
+#readypulse-widget h2.readypulse-main-title{margin-top: -7px;}
+
+#readypulse-widget #readypulse-avatar{
+  width: 100px;;
+  height: auto;
+  float: left;
+}
+#readypulse-widget .comment-content{
+  width:395px;
+  float: left;
+  height: auto;
+  margin-left: 5px;
+}
+#readypulse-widget .comment-content h2{
+  font-family:sans-serif;
+  font-size: 18px;
+  margin-bottom: 0px;
+}
+#readypulse-widget .readypulseChild1 .parentCmt{margin-bottom: 5px;}
+#readypulse-widget #li-comment-5 .comment-authorvcard1{
+  width:420px;
+  margin-bottom: 5px;
+  float:left;
+}
+#readypulse-widget #li-comment-5 #avtarimage{
+  float: left;
+}
+#readypulse-widget #li-comment-5 #contentbox{
+  width:369px;
+  float: left;
+}
+
+#readypulse-widget #li-comment-5 #contentbox h2{
+  margin: -5px 0 0;
+}
+
+
+#readypulse-widget #li-comment-5 .comment-content1{
+  width:380px;
+  margin-left: 5px;
+  float:left;
+}
+#readypulse-widget #li-comment-5 #content2{
+  width:600px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  float:left;
+}
+#readypulse-widget #li-comment-5 #subimage{
+  width:70px;
+  height:110px;
+  float:left;
+  margin-right: 5px;
+  font-weight: bold;
+  font-size: 12px;
+}
+#readypulse-widget #li-comment-5 #subimage .pic{
+  width:70px;
+  height:90px;
+}
+
+#readypulse-widget #li-comment-5 #video{
+  float:left;
+  margin-right: 5px;
+  width: 200px;
+}
+
+#readypulse-widget .video_name{
+  font-weight: bold;
+  font-size: 12px;
+}
+
+#readypulse-widget #li-comment-5 .readypulse-date{
+  margin-top: 0px;
+  font-size: 10px;
+  font-weight:normal;
+  float: left;
+}
+
+#readypulse-widget #li-comment-5 .asset-facebook .readypulse-date, #readypulse-widget #li-comment-5 .asset-twitter .readypulse-date{
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+#readypulse-widget #li-comment-5 #subcontent{
+  margin-bottom: 7px;
+  float:left;
+  width: 80%;
+}
+
+#readypulse-widget #li-comment-5 .videocontent{
+  width: 55% !important;
+}
+#readypulse-widget #li-comment-5 .children1{
+  float:right;
+}
+#readypulse-widget #li-comment-5 .asset-facebook{
+  width:350px;
+
+}
+#readypulse-widget #li-comment-5 #facebookimage{
+  background-image: url("http://www.readypulse.com/assets/rp/basic_16.png");
+  width:15px;
+  height:16px;
+  float: left;
+  background-position: -32px -64px;
+  margin-right: 5px;
+}
+#readypulse-widget #li-comment-5 #twitterimage{
+  background-image: url("http://www.readypulse.com/assets/rp/basic_16.png");
+  width:15px;
+  height:16px;
+  float: left;
+  background-position: -48px -64px;
+  margin-right: 5px;
+}
+#readypulse-widget #li-comment-5 #facebooklikes{
+  font-size: 10px;
+  font-weight: bold;
+  margin-left: 3px;
+  float:left;
+}
+
+#readypulse-sidebar .readypulseChild1{margin-left: 0px !important;}
+
+#readypulse-sidebar .jsonComment,.children,.children2{
+  list-style: none;
+}
+
+#readypulse-sidebar.jsonComment,.children,.children2{
+  list-style: none;
+}
+
+#readypulse-sidebar #li-comment-1{
+  width:210px;
+}
+#readypulse-sidebar #comment-authorvcard{
+  width:210px;
+}
+#readypulse-sidebar .readypulse-avatar{
+  float: left;
+}
+#readypulse-sidebar #readypulse-avatar{
+  width:60px;
+}
+#readypulse-sidebar .comment-content{
+  width:145px;
+  float: left;
+  margin-left: 4px;
+}
+#readypulse-sidebar .comment-content h2{
+  font-family:sans-serif;
+  font-size: 11px;
+  margin-bottom: 0px;
+}
+
+
+#readypulse-sidebar #li-comment-5 .comment-authorvcard1{
+  width:200px;
+  float:left;
+  margin-top: 5px;
+}
+#readypulse-sidebar h2.readypulse-main-title{margin-top: -4px;}
+#readypulse-sidebar #li-comment-5 #avtarimage{
+  float: left;
+}
+#readypulse-sidebar #li-comment-5 #contentbox{
+  width:160px;
+  float: left;
+}
+#readypulse-sidebar #li-comment-5 .comment-content1{
+  margin-left: 5px;
+  float:left;
+}
+#readypulse-sidebar #li-comment-5 #contentbox h2{
+  margin-top: -5px
+}
+#readypulse-sidebar #li-comment-5 #content2{
+  float:left;
+}
+#readypulse-sidebar #li-comment-5 #subimage{
+  margin-left: 5px;
+}
+#readypulse-sidebar #li-comment-5 #video{
+  margin-left: 5px;
+}
+#readypulse-sidebar #li-comment-5 #subimage .pic{
+  width:60px;
+  height:90px;
+}
+
+#readypulse-sidebar #li-comment-5 .readypulse-date{
+  margin-left: 7px;
+  font-size: 10px;
+  font-weight: bold;
+}
+#readypulse-sidebar #li-comment-5 #subcontent{
+  width:200px;
+  float:left;
+  margin-left: 7px;
+  margin-bottom: 5px;
+  word-wrap: break-word;
+}
+
+#readypulse-sidebar #li-comment-5 #subcontent a{
+  font-size: 12px;
+  font-weight: normal;
+}
+
+#readypulse-sidebar .video_name a{
+  font-weight: bold !important;
+}
+
+#readypulse-sidebar #li-comment-5 .children1{
+  float:right;
+}
+#readypulse-sidebar #li-comment-5 .comment-content1 h2 a{
+  font-size: 12px;
+}
+
+#readypulse-sidebar #li-comment-5 #facebookimage{
+  background-image: url("http://www.readypulse.com/assets/rp/basic_16.png");
+  width:15px;
+  height:16px;
+  float: left;
+  background-position: -32px -64px;
+  margin-right: 5px;
+}
+#readypulse-sidebar #li-comment-5 #twitterimage{
+  background-image: url("http://www.readypulse.com/assets/rp/basic_16.png");
+  width:15px;
+  height:16px;
+  float: left;
+  background-position: -48px -64px;
+  margin-right: 5px;
+}
+#readypulse-sidebar #li-comment-5 #facebooklikes{
+  font-size: 10px;
+  font-weight: bold;
+  margin-left: 3px;
+}
+
+#readypulse-widget ul.JsonChild{margin-left: 55px;}
+
+.wid50{
+  max-width: 50px !important;
+  max-height: 50px !important;
+}
+
+ol.jsonComment li ul li ul.JsonChild li #avtarimage .wid50{
+  max-width: 45px !important;
+  max-height: 45px !important;
+}
+
+.wid32{
+  max-width: 32px !important;
+  max-height: 32px !important;
+}
+
+ol.jsonComment li ul li ul.JsonChild li #avtarimage .wid32{
+  max-width: 28px !important;
+  max-height: 28px !important;
+}

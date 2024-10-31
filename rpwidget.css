@@ -1,0 +1,231 @@
+.rp-widget {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 0px;
+    padding: 0px;
+/*    background: none repeat scroll 0 0 #FFFFFF;*/
+    border: 1px solid #CCCCCC;
+    border-radius: 5px 5px 5px 5px;
+    min-width: 240px;
+}
+.rp-widget ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none !important;
+}
+.rp-widget li{
+    list-style: none !important;
+}
+.sidebar .rp-widget li{
+    list-style: none !important;
+    background: none !important;
+}
+.rp-widget h2, .rp-widget p{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+.rp-widget a {
+    text-decoration: none;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+}
+.Clear{clear: both;}
+.rp-widget .rp-header{
+    /*border-bottom: 1px solid #333333;
+    background: none repeat scroll 0 0 #333333;
+    color: #CCCCCC;*/
+    padding: 10px;
+}
+
+.rp-widget .rp-header .header-desc{font-size: 12px;}
+
+.rp-widget .header-avatar{
+    height: 50px;
+    margin-right: 10px;
+    width: 50px;
+    float: left;
+}
+
+.rp-widget .header-avatar img {
+    border: 0 none;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+.rp-widget .header-name{
+    display: inline-block;
+}
+.rp-widget .header-name h2{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -3px;
+}
+.readypulse-main-title{/*color:#CCCCCC !important;*/}
+.rp-widget .child-first{padding: 10px; /*border-bottom: solid 1px #E9E9E9;*/ clear: both;}
+.rp-widget .avatar{float: left; margin-right: 10px;}
+.rp-widget #contentbox{float: left; width: 80%;}
+.rp-widget #contentbox .child-name{padding-bottom: 10px;}
+
+.rp-widget #contentbox .subimage{width:120px; float: left; padding-right: 10px; padding-bottom: 10px;}
+.rp-widget #contentbox .subimage img{width:120px;}
+
+.rp-widget #contentbox #video{width:120px; height: 90px; float: left; padding-right: 10px; padding-bottom: 10px;}
+.rp-widget #contentbox #video iframe{width:120px; height: 90px;}
+.rp-widget #contentbox .video_name{float: left;}
+.rp-widget #contentbox .video_name a{font-weight: bold;}
+.rp-widget #contentbox .facebook-thread-link{clear: both; display: block;}
+.rp-widget #contentbox .twitter-thread-link{clear: both; display: block;}
+.rp-widget .comment-box{clear: both;}
+.rp-widget .facebook-thread-link{border-radius: 3px 3px 3px 3px;
+    display: inline-block;
+    font-size: 10px;
+    line-height: 14px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 1px 5px;
+    width: 110px;
+    text-decoration: none;
+}
+.rp-widget .facebook-thread-link:hover{border-radius: 3px 3px 3px 3px;
+    display: inline-block;
+    font-size: 10px;
+    line-height: 14px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 1px 5px;
+    width: 110px;
+    text-decoration: none;
+}
+.rp-widget .twitter-thread-link{border-radius: 3px 3px 3px 3px;
+    display: inline-block;
+    font-size: 10px;
+    line-height: 14px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 1px 5px;
+    width: 78px;
+    text-decoration: none;
+}
+.rp-widget .twitter-thread-link:hover{border-radius: 3px 3px 3px 3px;
+    display: inline-block;
+    font-size: 10px;
+    line-height: 14px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 1px 5px;
+    width: 78px;
+    text-decoration: none;
+    clear: both;
+}
+.rp-widget .asset-facebook, .rp-widget .asset-twitter{
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.12);
+    font-size: 11px;
+    line-height: 14px;
+    margin: 0;
+    padding: 3px 5px;
+    font-weight: bold;
+    clear: both;
+}
+.rp-widget .asset-facebook .readypulse-pub-date, .rp-widget .asset-twitter .readypulse-pub-date{float: left; padding-right: 10px;}
+
+.rp-widget .child-second .asset-facebook, .rp-widget .child-second .asset-twitter{
+    background: none;
+    font-size: 11px;
+    line-height: 14px;
+    margin: 0;
+    padding: 3px 5px;
+    font-weight: bold;
+    clear: both;
+}
+
+.rp-widget .facebookimage {
+    background-image: url("images/w.png");
+    background-position: 0 0;
+    float: left;
+    height: 11px;
+    margin-right: 5px;
+    margin-top: 2px;
+    width: 11px;
+}
+
+.rp-widget .twitterimage {
+    background-image: url("images/w.png");
+    background-position: 0 -88px;
+    float: left;
+    height: 11px;
+    margin-right: 5px;
+    margin-top: 2px;
+    width: 11px;
+}
+
+.rp-widget .rpWidget-children .child-second{
+   /* background: none repeat scroll 0 0 rgba(0, 0, 0, 0.12);*/
+    margin: 5px 0px 5px 0px;
+    padding: 5px;
+}
+
+.rp-widget .rpWidget-children .child-second #contentbox h2{
+    margin-top: -3px;
+}
+
+.rp-widget .rpWidget-children .child-second #avtarimage img{
+    width: 32px;
+    height: 32px;
+    margin-top: 2px;
+}
+
+.rp-widget .rp-footer{
+    /*background: none repeat scroll 0 0 #333333;
+    color: #CCCCCC;*/
+    text-align: right;
+    padding: 2px 5px 2px 0px;
+}
+.rp-widget .rp-footer a{
+    /*color: #CCCCCC;*/
+}
+.phototext{margin-top: -3px;}
+.video_name{margin-top: -4px;}
+
+/*** Start of sidebar ***/
+.widget_readypulsesidebarwidget ul{margin: 0px; padding: 0px; width: 100%;}
+.widget .rp-widget .header-avatar{
+    margin-right: 10px;
+    width: 50px;
+    float: left;
+    height: auto;
+}
+
+.widget .rp-widget{
+    margin: 0px;
+}
+
+.widget .rp-widget #contentbox .subimage{width:120px; clear: both; float: none; padding-right: 10px; padding-bottom: 10px; padding-top: 10px;}
+.widget .rp-widget #contentbox #video {
+    clear: both;
+    float: none;
+    height: 90px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    width: 120px;
+}
+.widget .rp-widget .facebook-thread-link{font-size: 10px;}
+.widget .rp-widget .twitter-thread-link{font-size: 10px;}
+.widget .rp-widget .asset-facebook, .rp-widget .asset-twitter{font-size: 10px; font-weight: normal; clear: both;}
+.widget .rp-widget #contentbox{float: none; width: 100%;}
+.widget .rp-widget li ul{margin-left: 10px;}
+.widget .rp-widget #contentbox .child-name{float: left; padding-bottom: 10px; margin-top: -4px;}
+.widget .child-second #contentbox .child-name{margin-top: 0px;}
+.widget .rp-widget li ul.rpWidget-children .child-second #contentbox .child-name{width: 80%;}
+.widget .rp-widget li.child-first .child-name{display: block; width: 70%;}
+.widget .rp-widget .header-name h2{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -3px;
+    padding-top: 5px;
+}
+.widget .contributor-text, .sidebar .contributor-text{word-wrap: break-word;}
+.sidebar .rp-widget h2{background: none !important;}

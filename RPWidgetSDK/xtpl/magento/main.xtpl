@@ -1,0 +1,59 @@
+<!-- BEGIN: main -->
+<ul class="rp-widget"{style_width_height}>
+    <!-- BEGIN: header -->
+    <li class="rp-header">
+        <div class="header-avatar"> 
+            <img class="readypulse-avatar" width="100" title="{headername}" src="{headerimage}" class="border rad_sm" alt="{headername}">
+        </div>
+        <div class="header-name">
+            <h2 class="readypulse-main-title">{headername}</h2>
+            <div class="header-desc">
+                <p>{headerdescription}</p>
+            </div>
+            <time datetime="{headerdatecreated}" pubdate="">{headerdatecreated}</time>
+        </div>
+    </li>
+    <!-- END: header -->
+
+    <!-- BEGIN: curated_list -->    
+    <li class="parentCmt child-first">
+        <div class="comment-box">
+            <div id="avtarimage">
+                <a target="_blank" href="{contributor_url}">
+                    <img class="avatar" title="{contributor_name}" src="{contributor_image_url}" class="border rad_sm" alt="{contributor_name}" />
+                </a>
+            </div>
+            <div id="contentbox">
+                <div class="child-name">
+                    <h2><a target="_blank" href="{contributor_url}">{contributor_name}</a></h2>
+                    <div class="contributor-text">{contributor_text}</div>
+                </div>
+                <!-- BEGIN: facebook_link -->
+                <a target="_blank" class="facebook-thread-link" href="{facebook_thread_url}">View Facebook thread</a>
+                <!-- END: facebook_link -->
+
+                <!-- BEGIN: twitter_link -->
+                <a target="_blank" class="twitter-thread-link" href="{twitter_thread_url}">View On Twitter</a>
+                <!-- END: twitter_link -->
+                <!-- BEGIN: asset_type -->
+                <div class="asset-{asset_type}">
+                    <div class="{asset_type}image"></div>
+                    <div class="readypulse-pub-date"><div pubdate="{pubdate}" datetime="{pubdate}">{pubdate}</div></div>
+                    <div class="{asset_type}likes">{sub_like_text}</div>
+                    <div class="Clear"></div>
+                </div>
+                <!-- END: asset_type -->
+                {photo}
+                {video}
+            </div>
+        </div>
+        <div class="Clear"></div>
+    </li>
+    <!-- END: curated_list -->    
+
+
+    <!-- BEGIN: footer -->
+    <li class="rp-footer"><a target="_top" href="http://www.readypulse.com">Powered by ReadyPulse</a></li>
+    <!-- END: footer -->
+</ul>
+<!-- END: main -->

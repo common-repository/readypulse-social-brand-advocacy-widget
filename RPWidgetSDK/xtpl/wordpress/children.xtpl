@@ -1,0 +1,30 @@
+<!-- BEGIN: main -->
+<ul class="rpWidget-children">
+
+    <!-- BEGIN: curated_list -->    
+    <li class="parentCmt child-second post">
+        <div class="comment-box">
+            <div id="avtarimage">
+                <a target="_blank" href="{contributor_url}">
+                    <img class="avatar" title="{contributor_name}" src="{contributor_image_url}" class="border rad_sm" alt="{contributor_name}" />
+                </a>
+            </div>
+            <div id="contentbox">
+                <div class="child-name">
+                    <h2><a target="_blank" href="{contributor_url}">{contributor_name}</a></h2>
+                    <div class="contributor-text">{contributor_text}</div>
+                </div>
+                <div class="asset-{asset_type}">
+                    <div class="{asset_type}image"></div>
+                    <div class="readypulse-pub-date"><div pubdate="{pubdate}" datetime="{pubdate}">{pubdate}</div></div>
+                    <div class="{asset_type}likes">{sub_like_text}</div>
+                    <div class="Clear"></div>
+                </div>
+            </div>
+        </div>
+        <div class="Clear"></div>
+    </li>
+    <!-- END: curated_list -->    
+
+</ul>
+<!-- END: main -->
